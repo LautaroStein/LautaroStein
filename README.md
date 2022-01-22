@@ -1,6 +1,6 @@
 ### Hi there, I'm Lautaro Stein 👋 
 
-## I'm an Associate of Computer Systems Analysts student and a Full Stack Developer in process!!
+## I'm an a Full Stack Developer!!
 
 - 🌱 I’m currently learning Web and Mobile development technologies 
 - 🥅 2021 Goals: Become a Full Stack MERN & Mobile Developer
